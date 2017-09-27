@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="crear">Crear</string>
+    <string name="reporte">Reporte</string>
+    <string name="agragar_cel">Agregar Cel</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="marca">Marca</string>
+    <string name="ram">Ram</string>
+    <string name="s_operativo">Sistema Operativo</string>
+    <string name="color">Color</string>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/reporte</item>
+    </array>
+    <string name="samsung">Samsung</string>
+    <string name="nokia">Nokia</string>
+    <string name="apple">Apple</string>
+    <string name="huawei">Huawei</string>
+    <string name="r1">1</string>
+    <string name="r2">2</string>
+    <string name="r4">4</string>
+    <string-array name="marcas">
+        <item>@string/samsung</item>
+        <item>@string/apple</item>
+        <item>@string/huawei</item>
+        <item>@string/nokia</item>
+    </string-array>
+    <string-array name="ram">
+        <item>@string/r1</item>
+        <item>@string/r2</item>
+        <item>@string/r4</item>
+    </string-array>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string-array name="color">
+        <item>@string/negro</item>
+        <item>@string/blanco</item>
+    </string-array>
+    <string name="android">Android</string>
+    <string name="ios">Ios</string>
+    <string-array name="s_ope">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string name="msn_exitoso">celular agregado exitosamente!!!!</string>
+    <string name="precio">Precio</string>
+</resources>

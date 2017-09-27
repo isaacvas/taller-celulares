@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="r1">1</string>
+    <string name="r2">2</string>
+    <string name="r4">4</string>
+    <string name="android">Android</string>
+    <string name="ios">Ios</string>
+</resources>
