@@ -45,4 +45,14 @@
     </string-array>
     <string name="msn_exitoso">celular agregado exitosamente!!!!</string>
     <string name="precio">Precio</string>
+    <string name="todos">Todos</string>
+    <string name="reporte1">Reporte 1</string>
+    <string name="reporte2">Reporte 2</string>
+    <string name="reporte3">Reporte 3</string>
+    <array name="OpcionesReporte">
+        <item>@string/todos</item>
+        <item>@string/reporte1</item>
+        <item>@string/reporte2</item>
+        <item>@string/reporte3</item>
+    </array>
 </resources>

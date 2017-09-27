@@ -25,6 +25,7 @@ public class  Crear extends AppCompatActivity {
         s_ope  = (Spinner)findViewById(R.id.cmdS_operativo);
         colores = (Spinner)findViewById(R.id.cmdColor);
         precio =(EditText)findViewById(R.id.txtPrecio);
+        resources = this.getResources();
 
         marca = getResources().getStringArray(R.array.marcas);
         ra = getResources().getStringArray(R.array.ram);

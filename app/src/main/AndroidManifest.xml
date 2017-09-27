@@ -17,7 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".Crear" />
-        <activity android:name=".listar"></activity>
+        <activity android:name=".listar" />
+        <activity android:name=".OpcionesReporte" />
+        <activity android:name=".lista2" />
+        <activity android:name=".lista3" />
+        <activity android:name=".lista4"></activity>
     </application>
 
 </manifest>
