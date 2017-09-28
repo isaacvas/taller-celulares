@@ -59,13 +59,14 @@ public class  Crear extends AppCompatActivity {
         c.guardar();
         Toast.makeText(this, resources.getString(R.string.msn_exitoso),Toast.LENGTH_SHORT).show();
 
-       }
+        }
+
 
     }
 
 
     public boolean validar(){
-        if (Integer.parseInt(precio.getText().toString()) == 0){
+        if (precio.getText().toString().length() == 0){
             precio.setError(resources.getString(R.string.msn_error));
             return false;
         }
