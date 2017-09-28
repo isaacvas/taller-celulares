@@ -6,4 +6,26 @@
     <string name="r4">4</string>
     <string name="android">Android</string>
     <string name="ios">Ios</string>
+    <string name="apple">Apple</string>
+    <string name="huawei">Huawei</string>
+    <string name="nokia">Nokia</string>
+    <string name="ram">Ram</string>
+    <string name="samsung">Samsung</string>
+    <string name="todos">all</string>
+    <string name="agragar_cel">add cell</string>
+    <string name="blanco">white</string>
+    <string name="color">Color</string>
+    <string name="crear">create</string>
+    <string name="guardar">save</string>
+    <string name="limpiar">clear</string>
+    <string name="marca">mark</string>
+    <string name="msn_error">type price</string>
+    <string name="msn_exitoso">cell phone successfully added !!!!</string>
+    <string name="negro">black</string>
+    <string name="precio">price</string>
+    <string name="reporte">report</string>
+    <string name="reporte1">report 1</string>
+    <string name="reporte2">report 2</string>
+    <string name="reporte3">report 3</string>
+    <string name="s_operativo">" OS"</string>
 </resources>

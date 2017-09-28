@@ -55,4 +55,5 @@
         <item>@string/reporte2</item>
         <item>@string/reporte3</item>
     </array>
+    <string name="msn_error">digite precio</string>
 </resources>

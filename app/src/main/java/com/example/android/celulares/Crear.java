@@ -47,6 +47,7 @@ public class  Crear extends AppCompatActivity {
     public void guardar(View v){
         String ma, ra, so, co;
         double pre;
+        if (validar()) {
 
         ma = marcas.getSelectedItem().toString();
         ra = ram.getSelectedItem().toString();
@@ -58,6 +59,19 @@ public class  Crear extends AppCompatActivity {
         c.guardar();
         Toast.makeText(this, resources.getString(R.string.msn_exitoso),Toast.LENGTH_SHORT).show();
 
+       }
 
     }
+
+
+    public boolean validar(){
+        if (Integer.parseInt(precio.getText().toString()) == 0){
+            precio.setError(resources.getString(R.string.msn_error));
+            return false;
+        }
+
+        return true;
+    }
+
+
 }
